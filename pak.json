@@ -1,0 +1,17 @@
+{
+  "name": "Map.txt Generator",
+  "type": "TOOL",
+  "description": "Generates the Map.txt files for FBN ROMs",
+  "author": "josegonzalez",
+  "repo_url": "https://github.com/josegonzalez/minui-map-txt-pak",
+  "release_filename": "Map.txt.Generator.pak.zip",
+  "platforms": [
+    "miyoomini",
+    "my282",
+    "my355",
+    "rg35xxplus",
+    "tg5040"
+  ],
+  "launch": "launch.sh",
+  "version": ""
+}
