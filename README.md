@@ -1,6 +1,6 @@
 # minui-map-txt-generator.pak
 
-A MinUI pak wrapping [`minui-map-txt-creator`]<https://github.com/josegonzalez/minui-map-txt-creator>/) to generate map.txt files for Final Burn Neo romsets.
+A MinUI pak wrapping [`minui-map-txt-creator`](https://github.com/josegonzalez/minui-map-txt-creator/) to generate map.txt files for Final Burn Neo romsets.
 
 ## Requirements
 
