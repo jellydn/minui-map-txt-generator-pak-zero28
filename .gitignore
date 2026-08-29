@@ -1,7 +1,5 @@
 dist
 bin/*
 !bin/.gitkeep
-!bin/zero28
-!bin/zero28/*
 res/fonts/*
 !res/fonts/.gitkeep
